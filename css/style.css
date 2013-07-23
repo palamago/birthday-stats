@@ -1,0 +1,22 @@
+#bar-stats-container {
+
+}
+
+#bar-stats-container svg {
+  background: #ccc;
+}
+
+#bar-stats-container svg rect {
+
+}
+
+#bar-stats-container svg text {
+  fill: white;
+}
+
+.container {
+	margin-bottom: 100px;
+}
+
+#pie-stats-container svg text{
+}
